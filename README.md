@@ -1,6 +1,6 @@
 # Neural Network from Scratch (NumPy only)
 
-![tests](https://github.com/YOUR-USERNAME/numpy-neural-net/actions/workflows/tests.yml/badge.svg)
+![tests](https://github.com/25poojam/numpy-neural-net/actions/workflows/tests.yml/badge.svg)
 
 A fully connected neural network built using **only NumPy**, with no PyTorch or TensorFlow. Every piece is written by hand: forward pass, backpropagation, softmax cross-entropy, dropout, and the SGD-with-momentum and Adam optimizers.
 
@@ -26,7 +26,7 @@ Frameworks hide the math. Writing backprop by hand forced me to understand exact
 ## Quickstart
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/numpy-neural-net.git
+git clone https://github.com/25poojam/numpy-neural-net.git
 cd numpy-neural-net
 pip install -r requirements.txt
 
